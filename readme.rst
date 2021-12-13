@@ -68,3 +68,5 @@ Acknowledgement
 
 The CodeIgniter team would like to thank EllisLab, all the
 contributors to the CodeIgniter project and you, the CodeIgniter user.
+
+Link download App Asset Desa Android https://github.com/adimurdayani/Asset-Desa-Android.git
